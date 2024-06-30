@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tirth696
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning various languages for web development.
-- 
+- PURSUING MCA
   
 
 <!---
